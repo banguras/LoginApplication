@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>DataStructures.Exceptions</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">DataStructures.Exceptions.QueueUnderflowException</node>
+    <node x="0.0" y="166.0">DataStructures.Exceptions.QueueOverflowException</node>
+    <node x="0.0" y="498.0">DataStructures.Exceptions.StackOverflowException</node>
+    <node x="366.0" y="498.0">DataStructures.Exceptions.OutofRangeException</node>
+    <node x="0.0" y="332.0">DataStructures.Exceptions.StackUnderflowException</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="335.0" y="309.5" />
+  <SelectedNodes>
+    <node>DataStructures.Exceptions.QueueUnderflowException</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>DataStructures.Class</OriginalElement>
+  <nodes>
+    <node x="0.0" y="761.0">DataStructures.Class.UnboundedQueue</node>
+    <node x="0.0" y="0.0">DataStructures.Class.OrderedList</node>
+    <node x="489.0" y="761.0">DataStructures.Class.BoundedStack</node>
+    <node x="534.0" y="0.0">DataStructures.Class.IndexedList</node>
+    <node x="1048.0" y="0.0">DataStructures.Class.BoundedQueue</node>
+    <node x="883.0" y="761.0">DataStructures.Class.UnboundedStack</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.6554878048780488" x="766.0" y="646.0" />
+  <SelectedNodes>
+    <node>DataStructures.Class.OrderedList</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

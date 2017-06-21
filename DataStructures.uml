@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>DataStructures</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">DataStructures.Interfaces</node>
+    <node x="18.0" y="97.0">DataStructures.Class</node>
+    <node x="0.0" y="189.0">DataStructures.Exceptions</node>
+    <node x="0.0" y="281.0">DataStructures.Test</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="DataStructures.Class" target="DataStructures.Interfaces">
+      <point x="0.0" y="-23.5" />
+      <point x="0.0" y="23.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="102.5" y="164.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

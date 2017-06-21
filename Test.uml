@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>DataStructures.Test</OriginalElement>
+  <nodes>
+    <node x="343.0" y="537.0">DataStructures.Test.UnboundedQueueTest</node>
+    <node x="801.0" y="0.0">DataStructures.Test.BoundedStackTest</node>
+    <node x="0.0" y="0.0">DataStructures.Test.OrderedListTest</node>
+    <node x="0.0" y="889.0">DataStructures.Test.UserTest</node>
+    <node x="0.0" y="537.0">DataStructures.Test.BoundedQueueTest</node>
+    <node x="410.0" y="0.0">DataStructures.Test.IndexedListTest</node>
+    <node x="666.0" y="537.0">DataStructures.Test.UnboundedStackTest</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.7775768535262206" x="549.5" y="543.0" />
+  <SelectedNodes>
+    <node>DataStructures.Test.UnboundedQueueTest</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
